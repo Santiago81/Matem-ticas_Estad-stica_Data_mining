@@ -1,2 +1,2 @@
 # Matemáticas, Estadística y Data mining
-En este reposisorio se encuentra la práctica
+En este repositorio se encuentra la práctica
